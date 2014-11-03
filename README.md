@@ -1,5 +1,8 @@
 John-me
 =======
 
-John learning Github 
-Learning one step at a time. 
+John learning Github <br />
+Learning one step at a time. <br />
+<p>
+I enjoy :beer:, and :pizza:.<br />
+</p>
